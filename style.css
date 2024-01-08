@@ -96,13 +96,13 @@ body {
   color: #888;
 }
 
-.task:focus {
+.task-list__input-text:focus {
   color: #333;
 }
 
 /* New Task */
 
-.head-block.label {
+.head-block.h1 {
   display: block;
   margin: 0 0 20px;
 }
